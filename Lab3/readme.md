@@ -17,3 +17,5 @@ From what I have discovered is that the short term certificate in Web Applicatio
 What I need to do to become co-op ready is that I have to upload my resume for final revisions and approval by a Career Coach at College Central Network, work with an Employer Relations Specialist to apply and interview with the approved co-op placements, and then sign a "Cooperative Education Agreement" form and register for college credit. The benefits of intership is that it is an experience referring to a partnership between students, institutions of higher education, and employers that integrates academic study with work experience.
 9. Industry Associations/Student Organizations
 The purpose of IEEE is to inspire a global community to innovate for a better tomorrow through its more than 423,000 members in over 160 countries, and its highly cited publications, confernces, technology standards, and professional and educational activities. membership would be beneficial because people believe in the cause it stands for and depend on you to advocate for their beliefs and rights. 
+-Conclusion
+This is what people need to know when they want to be co-op ready.
