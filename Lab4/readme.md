@@ -1,2 +1,9 @@
 - Excutive Summary
-
+this session is learning about how the command line works.
+- Python IDLE
+the difference between the shell and file editor is that the shell is the UNIX/Linux command line, and a shell script is a file which is executed that contains (basically) the same commands which might be entered on the command line. An editor, like Vim for example, is the software which allows you to easily create and change the file which contains all those commands.
+1. Code Examples
+An example of a variable is both age, sex, business income and expense, country of birth, and eye colour. the author uses bacon, eggs and spam as a use in the equation for variables. An example of assignment statement would be x=5, gives x the value 5. a example of a function is that it is used to put a hello message by using code def, a colon mark, docstring, return. a example of the Three data types is Numeric, non-numeric, and boolean. A Numeric example is interger, float, and complex number. A non-numeric example representing the colors of flowers in a yard: yellow, blue, white, red, etc. A Boolean example is when the x value is true, vertical black lines are drawn and when the Boolean value x is false, horizontal gray lines are drawn.
+-Graphics
+The main difference between vector and raster graphics is that raster graphics are composed of pixels, while vector graphics are composed of paths. A raster graphic, such as a gif or jpeg, is an array of pixels of various colors, which together form an image. A example of raster image when used is too make the pixels of a image, a example of Vector image is when it is used for size of the paths and image itself. It matters to developers whether they use loseless or lossy image format because Lossless in which the image is reduced without any quality loss, with lossy image format it is it will significantly reduce the file size when the file is too huge or ful of space.
+2. File Properties 
